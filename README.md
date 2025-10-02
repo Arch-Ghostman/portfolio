@@ -1,10 +1,10 @@
 # 🚀 Portfólio - Roberto
 
-Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresentar meus serviços, projetos e habilidades em desenvolvimento de software.
+Este projeto foi desenvolvido para apresentar meus serviços, projetos e habilidades em desenvolvimento de software.
 
 ## 👨‍💻 Sobre Mim
 
-Olá, eu sou **Roberto**, Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web e mobile, tenho foco em arquitetura de software, testes e tecnologias modernas.
+Sou Desenvolvedor Full Stack com expertise na concepção e implementação de soluções robustas e escaláveis para ambientes web e mobile. Especializado em arquitetura de software, engenharia de testes e na adoção estratégica de tecnologias de ponta para otimizar performance e maintainabilidade.
 
 ## 🛠️ Tecnologias Utilizadas
 
